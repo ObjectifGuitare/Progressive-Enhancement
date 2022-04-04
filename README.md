@@ -8,5 +8,5 @@ This exercise is one of BeCode's first coding exercise. It is meant to introduce
 
 to name a few...
 
-The "exercise-sheet" can be found on a BeCode private repository. It gave the whole text that you can see on semantics.html so that we just had to add the code.
+The "exercise-sheet" can be found on a BeCode private repository. It gave the whole text that you can see on index.html so that we just had to add the code.
 
